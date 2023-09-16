@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AuroImport/static/css/main.4a6838bb.css",
+    "main.js": "/AuroImport/static/js/main.491579fb.js",
+    "static/media/Perifericos.jpg": "/AuroImport/static/media/Perifericos.7e8e24503d6c9c2edfe7.jpg",
+    "static/media/Smartwatch.jpg": "/AuroImport/static/media/Smartwatch.4c2d5bd9308bc7828430.jpg",
+    "static/media/Tablet.jpg": "/AuroImport/static/media/Tablet.94b71d9fb177b5c02224.jpg",
+    "static/media/Lenovo.jpg": "/AuroImport/static/media/Lenovo.19a7276602a640419219.jpg",
+    "static/media/Auriculares.jpg": "/AuroImport/static/media/Auriculares.510ab256620dc7e5f5cc.jpg",
+    "static/media/MSI.jpg": "/AuroImport/static/media/MSI.41f845d11259defa9bbb.jpg",
+    "static/media/Mac.jpg": "/AuroImport/static/media/Mac.3a4800e08702e8d74079.jpg",
+    "static/media/HP.jpg": "/AuroImport/static/media/HP.058c963a3cb5e86cb8ea.jpg",
+    "index.html": "/AuroImport/index.html",
+    "main.4a6838bb.css.map": "/AuroImport/static/css/main.4a6838bb.css.map",
+    "main.491579fb.js.map": "/AuroImport/static/js/main.491579fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a6838bb.css",
+    "static/js/main.491579fb.js"
+  ]
+}
