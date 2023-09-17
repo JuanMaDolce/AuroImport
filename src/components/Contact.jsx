@@ -16,6 +16,18 @@ const Contact = () => {
               <img src={email} alt='Email'/>
             </a>
         </div>
+        <p className='copy-right'>
+          Auroimport SRL
+        </p>
+        <p className='copy-right'>
+          Guayaquil 124 5° "A" (1419)       
+        </p>
+        <p className='copy-right'>
+          Ciudad Autónoma de Buenos Aires       
+        </p>
+        <p className='copy-right'>
+          CUIT 30-71780385-6          
+        </p>
     </section>
   )
 }
