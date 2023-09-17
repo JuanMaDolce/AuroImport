@@ -1,20 +1,38 @@
 .header{
-    height: 500px;
-    background-color: rgba(231, 229, 229, 0.76);
     width: 100%;
     display: flex;
-    align-items: center;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
-.header p{
-    text-align: center;
-    font-size: 5rem;
-    width: 90%;
-    margin: 20px;
-    @media only screen and (max-width: 400px) {
+
+.header img{
+    max-width: 100%;
+}
+
+
+.header h1{
+    font-family: 'Playfair Display', serif !important ;
+    position: absolute;
+    max-width: 100%;
+    font-size: 7em;
+    color: white;
+    backdrop-filter: 10px;
+    text-shadow: 3px 3px  #000000;
+    @media only screen and (max-width: 900px) {
+        font-size: 6rem;
+    }
+    @media only screen and (max-width: 800px) {
+        font-size: 5rem;
+    }
+    @media only screen and (max-width: 700px) {
+        font-size: 4rem;
+    }
+    @media only screen and (max-width: 600px) {
         font-size: 3rem;
     }
-    @media only screen and (max-width: 300px) {
+    @media only screen and (max-width: 400px) {
         font-size: 2rem;
     }
+    
 }
