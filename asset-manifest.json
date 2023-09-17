@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AuroImport/static/css/main.f5b62954.css",
-    "main.js": "/AuroImport/static/js/main.2af1b3f2.js",
+    "main.css": "/AuroImport/static/css/main.aa200eff.css",
+    "main.js": "/AuroImport/static/js/main.2438f1f6.js",
     "static/media/header-background.jpg": "/AuroImport/static/media/header-background.dbbfb1a9b0b046eb4b18.jpg",
     "static/media/Perifericos.jpg": "/AuroImport/static/media/Perifericos.7e8e24503d6c9c2edfe7.jpg",
     "static/media/Smartwatch.jpg": "/AuroImport/static/media/Smartwatch.4c2d5bd9308bc7828430.jpg",
@@ -12,11 +12,11 @@
     "static/media/Mac.jpg": "/AuroImport/static/media/Mac.3a4800e08702e8d74079.jpg",
     "static/media/HP.jpg": "/AuroImport/static/media/HP.058c963a3cb5e86cb8ea.jpg",
     "index.html": "/AuroImport/index.html",
-    "main.f5b62954.css.map": "/AuroImport/static/css/main.f5b62954.css.map",
-    "main.2af1b3f2.js.map": "/AuroImport/static/js/main.2af1b3f2.js.map"
+    "main.aa200eff.css.map": "/AuroImport/static/css/main.aa200eff.css.map",
+    "main.2438f1f6.js.map": "/AuroImport/static/js/main.2438f1f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5b62954.css",
-    "static/js/main.2af1b3f2.js"
+    "static/css/main.aa200eff.css",
+    "static/js/main.2438f1f6.js"
   ]
 }
